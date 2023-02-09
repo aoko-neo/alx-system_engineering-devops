@@ -1,1 +1,1 @@
-HiddeHidden files
+hidden files
