@@ -1,1 +1,1 @@
-delet all files ending with ~
+delete all files ending with ~
