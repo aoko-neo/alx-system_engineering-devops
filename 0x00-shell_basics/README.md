@@ -1,1 +1,1 @@
-copying files
+creating a symbolic link
