@@ -1,1 +1,1 @@
-delete all files ending with ~
+create a directory tree
