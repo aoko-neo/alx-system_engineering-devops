@@ -1,1 +1,1 @@
-copy new files to parent
+move all uppercase file
