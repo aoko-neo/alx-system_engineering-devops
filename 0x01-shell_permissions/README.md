@@ -1,1 +1,1 @@
-multiple permissions
+set mode for john doe
