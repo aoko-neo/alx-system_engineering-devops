@@ -1,1 +1,1 @@
-multiple rwx permissions
+permission to all
