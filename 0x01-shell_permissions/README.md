@@ -1,1 +1,1 @@
-give multiple rwx permissions
+multiple rwx permissions
