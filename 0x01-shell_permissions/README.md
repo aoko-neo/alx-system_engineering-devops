@@ -1,1 +1,1 @@
-set mode for john doe
+change group owner
