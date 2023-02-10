@@ -1,1 +1,1 @@
-change permissions of symbolic link
+change prmissions of a symbolic link
