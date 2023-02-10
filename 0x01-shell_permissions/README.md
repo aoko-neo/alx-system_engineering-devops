@@ -1,1 +1,1 @@
-change prmissions of a symbolic link
+change from specific owner
