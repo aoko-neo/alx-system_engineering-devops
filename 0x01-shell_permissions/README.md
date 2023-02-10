@@ -1,1 +1,1 @@
-give execute permission to owner
+give multiple rwx permissions
