@@ -1,1 +1,1 @@
-execute premission to all directories
+create file and set mode
