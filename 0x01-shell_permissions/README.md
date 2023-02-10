@@ -1,1 +1,1 @@
-transfer mode
+set mode for hello
