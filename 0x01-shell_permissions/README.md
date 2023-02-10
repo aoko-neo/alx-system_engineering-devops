@@ -1,1 +1,1 @@
-permission to all
+everybody gets permission
