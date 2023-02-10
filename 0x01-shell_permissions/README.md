@@ -1,1 +1,1 @@
-set mode for hello
+execute permission to current directory and sub-directories
