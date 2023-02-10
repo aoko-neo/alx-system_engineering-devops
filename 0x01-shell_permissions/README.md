@@ -1,1 +1,1 @@
-full permission to other users
+multiple permissions
