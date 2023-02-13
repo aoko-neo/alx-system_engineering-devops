@@ -1,1 +1,1 @@
-Duplicate last line back to file
+Find and delete all files with .js extension in current directory
