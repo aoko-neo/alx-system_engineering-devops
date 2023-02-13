@@ -1,1 +1,1 @@
-Display file details
+Concatenate two files
