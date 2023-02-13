@@ -1,1 +1,1 @@
-Create a file with special charaters
+Write result of a command into a file
