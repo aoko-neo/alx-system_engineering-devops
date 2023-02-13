@@ -1,1 +1,1 @@
-Display a line in a file
+Duplicate last line back to file
