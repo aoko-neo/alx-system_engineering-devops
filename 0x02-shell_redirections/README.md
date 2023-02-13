@@ -1,1 +1,1 @@
-First 10 lines of a file
+Create a file with special charaters
