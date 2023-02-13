@@ -1,1 +1,1 @@
-Print a string
+Print a string and new line
