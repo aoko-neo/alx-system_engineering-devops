@@ -1,1 +1,1 @@
-Write result of a command into a file
+Display a line in a file
