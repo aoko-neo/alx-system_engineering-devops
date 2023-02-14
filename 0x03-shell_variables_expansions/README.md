@@ -1,1 +1,1 @@
-Number of directories on PATH
+Printf number  with two decimal places
