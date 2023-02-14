@@ -1,1 +1,1 @@
-Exponation operation
+DIvision operation
