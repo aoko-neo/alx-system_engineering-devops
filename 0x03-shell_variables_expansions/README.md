@@ -1,1 +1,1 @@
-Create a global variable
+Count number of directories in the PATH
