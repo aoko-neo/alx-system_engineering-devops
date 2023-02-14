@@ -1,1 +1,1 @@
-List local and environment variables
+Create a local variable
