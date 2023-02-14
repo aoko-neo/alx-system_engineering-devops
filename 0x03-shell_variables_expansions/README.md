@@ -1,1 +1,1 @@
-Last directory to PATH
+List enviromental variables
