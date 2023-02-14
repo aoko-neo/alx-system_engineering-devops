@@ -1,1 +1,1 @@
-Print hello user
+Last directory to PATH
