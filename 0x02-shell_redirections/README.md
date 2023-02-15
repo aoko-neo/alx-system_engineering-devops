@@ -1,1 +1,1 @@
-Display third line of a file
+Print third line of the file
