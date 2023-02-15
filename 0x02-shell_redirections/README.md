@@ -1,1 +1,1 @@
-Print third line of the file
+print third line of a file
