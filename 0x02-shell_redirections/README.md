@@ -1,1 +1,1 @@
-Print only unique words
+Display third line of a file
