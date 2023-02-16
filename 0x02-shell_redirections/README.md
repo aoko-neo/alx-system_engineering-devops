@@ -1,1 +1,1 @@
-Print third line in a file
+Count number of directories and sub in current directory
