@@ -1,1 +1,1 @@
-Count number of directories and sub in current directory
+Print 10 newest files in current directory
