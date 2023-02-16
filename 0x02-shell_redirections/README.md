@@ -1,1 +1,1 @@
-print all lines in file that begin with a letter
+Print lines starting with a letter
