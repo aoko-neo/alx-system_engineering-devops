@@ -1,1 +1,1 @@
-Find a word pattern in file /etc/passwd
+count number of lines with binword pattern
