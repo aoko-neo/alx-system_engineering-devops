@@ -1,1 +1,1 @@
-Print 10 newest files in current directory
+Display 10 newesr files in current directory
