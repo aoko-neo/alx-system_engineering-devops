@@ -1,1 +1,1 @@
-Print lines starting with a letter
+Replace characters from input
