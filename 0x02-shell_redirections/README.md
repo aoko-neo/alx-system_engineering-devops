@@ -1,1 +1,1 @@
-Display 10 newesr files in current directory
+Find a word pattern in file /etc/passwd
