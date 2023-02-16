@@ -1,1 +1,1 @@
-Print lines that do not contain 'bin'
+print all lines in file that begin with a letter
