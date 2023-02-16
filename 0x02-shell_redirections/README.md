@@ -1,1 +1,1 @@
-Replace characters from input
+Remove listed characters
