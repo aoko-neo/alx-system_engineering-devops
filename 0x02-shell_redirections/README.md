@@ -1,1 +1,1 @@
-Display 3 lines after the word pattern
+Print lines that do not contain 'bin'
